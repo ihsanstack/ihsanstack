@@ -27,10 +27,16 @@
 
 ### 👨‍💻 About Me :
 
-- 🌱 I’m currently learning **TypeScript, Next.js**
-- 👯 I’m looking to collaborate on **React.js Projects**
-- 💬 Ask me about **MERN Stack, Tailwind CSS, Bootstrap**
-- ⚡ Fun fact **I love playing chess and solving puzzles**
+- 🌱 I’m currently learning **TypeScript** and **Next.js**.
+- 👯 I’m looking to collaborate on **cutting-edge React.js projects**.
+- 💬 Ask me about **building dynamic web apps with the MERN stack**.
+- 🛠️ My code editor is never without its dark mode!
+- 🧩 I have an obsession with writing clean, efficient code—it's like solving a puzzle every day.
+- 💡 I love experimenting with new technologies.
+- 🕹️ In my free time, I enjoy exploring web development.
+- 🚀 I believe in the mantra: "Code. Test. Refactor. Repeat."
+- ⚡ Fun fact: I can spend hours perfecting my CSS animations until they’re buttery smooth.
+
 
 ---
 
@@ -74,8 +80,8 @@
 ### 📝 Recent Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a Full-Stack Web Application using MERN Stack](https://yourblog.com)
-- [Understanding Flexbox: The Most Important Concept in CSS](https://yourblog.com)
+- 🚧 **New blog posts are coming soon!** Stay tuned for insights on **full-stack development**, **UI/UX design**, and **tech trends**.
+- 📚 I'm currently working on exciting content about **React.js**, **Node.js**, and **modern web practices**. Check back soon!
 <!-- BLOG-POST-LIST:END -->
 
 ---
