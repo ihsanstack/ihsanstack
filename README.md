@@ -60,11 +60,11 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihsan360&show_icons=true&theme=radical" alt="Your GitHub Stats" width="500" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ihsanstack&show_icons=true&theme=radical" alt="Your GitHub Stats" width="500" height="250"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihsan360&theme=radical" alt="Your GitHub Streak" width="500" height="250"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihsanstack&theme=radical" alt="Your GitHub Streak" width="500" height="250"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ### 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ihsan360&theme=radical&no-frame=true&row=1&column=6" alt="Your GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ihsanstack&theme=radical&no-frame=true&row=1&column=6" alt="Your GitHub Trophies"/>
 </p>
 
 ---
@@ -87,7 +87,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ihsan360&label=Profile%20views&color=0e75b6&style=flat" alt="ihsan360" />
+  <img src="https://komarev.com/ghpvc/?username=ihsanstack&label=Profile%20views&color=0e75b6&style=flat" alt="ihsanstack" />
 </p>
 
 ---
