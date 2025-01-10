@@ -2,7 +2,7 @@
 
 # Welcome to My Development Hub 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eec900&size=35&center=true&vCenter=true&width=1000&lines=Welcome%2C+to+my+GitHub+profile!;I'm+Ihsan+Ullah!;A+20+year+old+developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eec900&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'm+Ihsan+Ullah!;A+20+year+old+developer!;SE+student+at+UOH!)](https://git.io/typing-svg)
 
 ---
 
