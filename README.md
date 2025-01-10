@@ -1,97 +1,80 @@
-<h1 align="center">Hi 👋, I'm Ihsan Ullah</h1>
-<h3 align="center">A passionate Web Developer from Pakistan</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=171&color=gradient"/>
+
+# Welcome to My Development Hub 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eec900&size=35&center=true&vCenter=true&width=1000&lines=Welcome%2C+to+my+GitHub+profile!;I'm+Ihsan+Ullah!;A+20+year+old+developer!)](https://git.io/typing-svg)
+
+---
+
+## 🚀 About Me
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="200" align="right">
+
+- 🎓 SE student at UOH
+- 💻 Passionate about writing coding and programming.
+- 🧠 Constantly seeking growth and improvement.
+- 📚 Believer in the power of god and smart work.
+
+---
+
+## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400"/>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank" style="margin-right:20px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,mongodb,expressjs,react,nodejs,nextjs,git,github,redux,npm" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank" style="margin-right:20px;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.instagram.com/ig_ehsan" target="_blank" style="margin-right:20px;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:ihsan42180@gmail.com" target="_blank" style="margin-right:20px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me :
+## 📊 GitHub Stats
 
-- 🌱 I’m currently learning **TypeScript** and **Next.js**.
-- 👯 I’m looking to collaborate on **cutting-edge React.js projects**.
-- 💬 Ask me about **building dynamic web apps with the MERN stack**.
-- 🛠️ My code editor is never without its dark mode!
-- 🧩 I have an obsession with writing clean, efficient code—it's like solving a puzzle every day.
-- 💡 I love experimenting with new technologies.
-- 🕹️ In my free time, I enjoy exploring web development.
-- 🚀 I believe in the mantra: "Code. Test. Refactor. Repeat."
-- ⚡ Fun fact: I can spend hours perfecting my CSS animations until they’re buttery smooth.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihsanstack&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanstack&layout=donut&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ihsanstack&bg_color=121111&color=00ffe1&line=fa00d9&point=fff700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ihsanstack&theme=radical)](https://git.io/streak-stats)
 
 ---
 
-### 🛠️ Languages and Tools:
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ihsanstack&theme=dracula&row=2&no-bg=true&column=8&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-### 📈 GitHub Stats:
+## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihsanstack&show_icons=true&theme=radical" alt="Your GitHub Stats" width="500" height="250"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihsanstack&theme=radical" alt="Your GitHub Streak" width="500" height="250"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ihsanstack&theme=radical&no-frame=true&row=1&column=6" alt="Your GitHub Trophies"/>
-</p>
+<div align="center">
+  <a href="https://github.com/ihsanstack" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://twitter.com/@ihsanstack" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://instagram.com/ihsan_stack" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</div>
 
 ---
 
-### 📝 Recent Blog Posts:
+## 🔥 Fun Fact
 
-<!-- BLOG-POST-LIST:START -->
-- 🚧 **New blog posts are coming soon!** Stay tuned for insights on **full-stack development**, **UI/UX design**, and **tech trends**.
-- 📚 I'm currently working on exciting content about **React.js**, **Node.js**, and **modern web practices**. Check back soon!
-<!-- BLOG-POST-LIST:END -->
+Coding feels like solving a puzzle – challenging yet incredibly rewarding once you crack it!
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ihsanstack&label=Profile%20views&color=0e75b6&style=flat" alt="ihsanstack" />
-</p>
+## 📂 Projects
+
+Stay tuned for updates on my latest projects!
 
 ---
 
-<p align="center">
-  <strong>Let's connect and create something amazing together!</strong>
-</p>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="1000">
+
+<div align="center">
+  <p><b>Visitors Count</b></p>
+  <p><img src="https://profile-counter.glitch.me/{ihsanstack}/count.svg" /></p>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&section=footer"/>
