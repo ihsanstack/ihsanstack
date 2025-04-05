@@ -2,7 +2,7 @@
 
 # Welcome to My Development Hub 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eec900&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'm+Ihsan+Ullah!;A+20+year+old+developer!;SE+student+at+UOH!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eec900&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'm+Ihsan+Ullah!;A+20+year+old+developer!;AI+student+at+UOH!)](https://git.io/typing-svg)
 
 ---
 
@@ -10,10 +10,10 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="200" align="right">
 
-- 🎓 SE student at UOH
-- 💻 Passionate about writing coding and programming.
+- 🎓 AI student at UOH
+- 💻 Passionate about writing, coding, and programming.
 - 🧠 Constantly seeking growth and improvement.
-- 📚 Believer in the power of god and smart work.
+- 📚 Believer in the power of god and innovative work.
 
 ---
 
